@@ -1,0 +1,188 @@
+[
+    {
+        "location" : "New York",
+        "name" : "Rangers",
+        "division" : "Metropolitan",
+        "conference" : "Eastern"
+    },
+    {
+        "location" : "New York",
+        "name" : "Islanders",
+        "division" : "Metropolitan",
+        "conference" : "Eastern"
+    },
+    {
+        "location" : "Washington",
+        "name" : "Capitals",
+        "division" : "Metropolitan",
+        "conference" : "Eastern"
+    },
+    {
+        "location" : "Pittsburgh",
+        "name" : "Penguins",
+        "division" : "Metropolitan",
+        "conference" : "Eastern"
+    },
+    {
+        "location" : "Philadelphia",
+        "name" : "Flyers",
+        "division" : "Metropolitan",
+        "conference" : "Eastern"
+    },
+    {
+        "location" : "Carolina",
+        "name" : "Hurricanes",
+        "division" : "Metropolitan",
+        "conference" : "Eastern"
+    },
+    {
+        "location" : "Columbus",
+        "name" : "Blue Jackets",
+        "division" : "Metropolitan",
+        "conference" : "Eastern"
+    },
+    {
+        "location" : "New Jersey",
+        "name" : "Devils",
+        "division" : "Metropolitan",
+        "conference" : "Eastern"
+    },
+    {
+        "location" : "Tampa Bay",
+        "name" : "Lightning",
+        "division" : "Atlantic",
+        "conference" : "Eastern"
+    },
+    {
+        "location" : "Boston",
+        "name" : "Bruins",
+        "division" : "Atlantic",
+        "conference" : "Eastern"
+    },
+    {
+        "location" : "Toronto",
+        "name" : "Maple Leafs",
+        "division" : "Atlantic",
+        "conference" : "Eastern"
+    },
+    {
+        "location" : "Montréal",
+        "name" : "Canadiens",
+        "division" : "Atlantic",
+        "conference" : "Eastern"
+    },
+    {
+        "location" : "Buffalo",
+        "name" : "Sabres",
+        "division" : "Atlantic",
+        "conference" : "Eastern"
+    },
+    {
+        "location" : "Florida",
+        "name" : "Panthers",
+        "division" : "Atlantic",
+        "conference" : "Eastern"
+    },
+    {
+        "location" : "Detroit",
+        "name" : "Red Wings",
+        "division" : "Atlantic",
+        "conference" : "Eastern"
+    },
+    {
+        "location" : "Ottawa",
+        "name" : "Senators",
+        "division" : "Atlantic",
+        "conference" : "Eastern"
+    },
+    {
+        "location" : "Winnipeg",
+        "name" : "Jets",
+        "division" : "Central",
+        "conference" : "Western"
+    },
+    {
+        "location" : "Nashville",
+        "name" : "Predators",
+        "division" : "Central",
+        "conference" : "Western"
+    },
+    {
+        "location" : "St. Louis",
+        "name" : "Blues",
+        "division" : "Central",
+        "conference" : "Western"
+    },
+    {
+        "location" : "Dallas",
+        "name" : "Stars",
+        "division" : "Central",
+        "conference" : "Western"
+    },
+    {
+        "location" : "Minnesota",
+        "name" : "Wild",
+        "division" : "Central",
+        "conference" : "Western"
+    },
+    {
+        "location" : "Colorado",
+        "name" : "Avalanche",
+        "division" : "Central",
+        "conference" : "Western"
+    },
+    {
+        "location" : "Chicago",
+        "name" : "Blackhawks",
+        "division" : "Central",
+        "conference" : "Western"
+    },
+    {
+        "location" : "Calgary",
+        "name" : "Flames",
+        "division" : "Pacific",
+        "conference" : "Western"
+    },
+    {
+        "location" : "San Jose",
+        "name" : "Sharks",
+        "division" : "Pacific",
+        "conference" : "Western"
+    },
+    {
+        "location" : "Anaheim",
+        "name" : "Ducks",
+        "division" : "Pacific",
+        "conference" : "Western"
+    },
+    {
+        "location" : "Vegas",
+        "name" : "Golden Knights",
+        "division" : "Pacific",
+        "conference" : "Western"
+    },
+    {
+        "location" : "Arizona",
+        "name" : "Coyotes",
+        "division" : "Pacific",
+        "conference" : "Western"
+    },
+    {
+        "location" : "Vancouver",
+        "name" : "Canucks",
+        "division" : "Pacific",
+        "conference" : "Western"
+    },
+    {
+        "location" : "Edmonton",
+        "name" : "Oilers",
+        "division" : "Pacific",
+        "conference" : "Western"
+    },
+    {
+        "location" : "Los Angeles",
+        "name" : "Kings",
+        "division" : "Pacific",
+        "conference" : "Western"
+    }
+]

@@ -1,4 +1,7 @@
-﻿using System;
+﻿using JsonConvert = Newtonsoft.Json.JsonConvert;
+using System;
+using System.Collections.Generic;
+using StreamReader = System.IO.StreamReader;
 
 namespace hockey_team_c_sharp_json
 {
@@ -6,8 +9,14 @@ namespace hockey_team_c_sharp_json
     {
         static void Main(string[] args)
         {
-            HockeyTeam ht = new HockeyTeam(loc:"New York",teamname:"Rangers",div:"Metropolitan",conf:"Eastern");
-            Console.WriteLine(ht.ToString());
+            using (var reader = new StreamReader("hockey-teams.json")) {
+                string json = reader.ReadToEnd();
+                List<HockeyTeam> items = JsonConvert.DeserializeObject<List<HockeyTeam>>(json);
+
+                foreach (HockeyTeam ht in items) {
+                    Console.WriteLine(ht.ToString());
+                }
+            }
         }
     }
 }
