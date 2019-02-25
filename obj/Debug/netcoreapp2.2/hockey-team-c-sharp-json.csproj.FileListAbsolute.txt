@@ -1,0 +1,11 @@
+C:\Users\brian\Documents\Code\CSharp\hockey-team-c-sharp-json\bin\Debug\netcoreapp2.2\hockey-team-c-sharp-json.deps.json
+C:\Users\brian\Documents\Code\CSharp\hockey-team-c-sharp-json\bin\Debug\netcoreapp2.2\hockey-team-c-sharp-json.runtimeconfig.json
+C:\Users\brian\Documents\Code\CSharp\hockey-team-c-sharp-json\bin\Debug\netcoreapp2.2\hockey-team-c-sharp-json.runtimeconfig.dev.json
+C:\Users\brian\Documents\Code\CSharp\hockey-team-c-sharp-json\bin\Debug\netcoreapp2.2\hockey-team-c-sharp-json.dll
+C:\Users\brian\Documents\Code\CSharp\hockey-team-c-sharp-json\bin\Debug\netcoreapp2.2\hockey-team-c-sharp-json.pdb
+C:\Users\brian\Documents\Code\CSharp\hockey-team-c-sharp-json\obj\Debug\netcoreapp2.2\hockey-team-c-sharp-json.csprojAssemblyReference.cache
+C:\Users\brian\Documents\Code\CSharp\hockey-team-c-sharp-json\obj\Debug\netcoreapp2.2\hockey-team-c-sharp-json.csproj.CoreCompileInputs.cache
+C:\Users\brian\Documents\Code\CSharp\hockey-team-c-sharp-json\obj\Debug\netcoreapp2.2\hockey-team-c-sharp-json.AssemblyInfoInputs.cache
+C:\Users\brian\Documents\Code\CSharp\hockey-team-c-sharp-json\obj\Debug\netcoreapp2.2\hockey-team-c-sharp-json.AssemblyInfo.cs
+C:\Users\brian\Documents\Code\CSharp\hockey-team-c-sharp-json\obj\Debug\netcoreapp2.2\hockey-team-c-sharp-json.dll
+C:\Users\brian\Documents\Code\CSharp\hockey-team-c-sharp-json\obj\Debug\netcoreapp2.2\hockey-team-c-sharp-json.pdb
